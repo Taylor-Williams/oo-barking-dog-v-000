@@ -9,6 +9,6 @@ class Dog
   end
 
   def bard
-    "woof!"
+    puts "woof!"
   end
 end
